@@ -86,7 +86,3 @@ python "ABINAYA 26MIB10081.py"
    - The first player to complete **5 lines** (spelling out full **B-I-N-G-O**) wins the game!
 
 ---
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
