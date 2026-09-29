@@ -55,13 +55,13 @@ Press `Win + R`, type `cmd`, and press **Enter**.
 ### Step 2: Clone the Repository
 Navigate to the directory where you want to save the project (e.g., Desktop) and run:
 ```cmd
-cd Desktop
+ Desktop
 git clone https://github.com/abinaya26mib10081-cpu/vityarthi-project.git
 ```
 
 ### Step 3: Navigate into the Project Folder
 ```cmd
-cd vityarthi-project
+ vityarthi-project
 ```
 
 ### Step 4: Run the Game
